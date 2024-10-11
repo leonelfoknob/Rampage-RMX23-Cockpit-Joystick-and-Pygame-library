@@ -65,4 +65,4 @@ while True:
           + " But1 :" + str(commands[6]) +" But2 :" + str(commands[7]) +" But3 :" + str(commands[8])
           + " But4 :" + str(commands[9]) +" But5 :" + str(commands[10]) +" But6 :" + str(commands[11])
           + " But7 :" + str(commands[12]) +" But8 :" + str(commands[13]) +" But9 :" + str(commands[14])
-          + " But10 :" + str(commands[15]))
+          + " But10 :" + str(commands[15]) + " But11 :" + str(commands[16]) + " But12 :" + str(commands[17]))
