@@ -2,6 +2,13 @@
 
 This project focuses on simplifying the integration of the Rampage RMX23 Cockpit USB Vibrating Joystick for controlling robots or other automated systems using the Pygame library. The goal is to create a versatile command map that enables users to seamlessly control various devices through an intuitive joystick interface, without needing complex setups.
 
+## Steps to Use
+
+- Install Pygame: Make sure you have Pygame installed in your environment.
+- Connect the Joystick: Plug in the Rampage RMX23 Cockpit Joystick via USB.
+- Run the Script: A pre-built Python script using Pygame is provided to read inputs and map them to desired commands.
+- Customize: You can easily modify the script to adjust how each input maps to your robot's or system's controls.
+
 ## Applications
 - Robotics: Control a robot’s movements, manipulations, and autonomous operations.
 - Gaming: Utilize the joystick for creative and fun gaming experiences.
